@@ -19,6 +19,7 @@ The controls of snake are:
 * A: Left 
 * S: Down 
 * D: Right
+
 To move, we will have to be pressing the key enter. 
 
 ## Reference 
