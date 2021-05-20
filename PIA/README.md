@@ -2,12 +2,11 @@
 
 ## Snake
 This program is a recreation of the famous game “snake”.
+* **Link toYouTube Video** [here](https://youtu.be/CqOjcxJznJ4)
+* **Link to project** [here](https://onlinegdb.com/AjcGQZcQI)
 
 ## Objective 
 The objective of the project is to match snake and that has an operation similar to the game which we know.
-
-## YouTube video
-* https://youtu.be/CqOjcxJznJ4
 
 ## How to compile it?
 In order to be able to compile the game, we needed 3 files; main.c, snake.h and funciones.c. 
