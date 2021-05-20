@@ -10,7 +10,7 @@ The objective of the project is to match snake and that has an operation similar
 
 ## How to compile it?
 In order to be able to compile the game, we needed 3 files; main.c, snake.h and funciones.c. 
-I would recommend to use the Code::Blocks compiler, but also she works well with GDB online.
+I would recommend to use the Code::Blocks compiler, but also it works well with GDB online.
 
 ## How to play?
 We must go to us moving within the playground to eat the fruit without touching the edges.
