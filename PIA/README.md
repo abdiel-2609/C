@@ -19,5 +19,8 @@ S: Down
 D: Right
 To move, we will have to be pressing the key enter. 
 
+## YouTube video
+* https://youtu.be/CqOjcxJznJ4
+
 ## Reference 
 * Empieza a programar (2013, Nov. 10). Bloque 6.1 ¿Que son las estructuras?. YouTube https://www.youtube.com/watch?v=sKCtFFf6v7A&list=PLw8RQJQ8K1ySN6bVHYEpDoh-CKVkL_uOF&index=30
