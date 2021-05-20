@@ -3,10 +3,21 @@
 ## Snake
 This program is a recreation of the famous game “snake”.
 
-## Plan Project
+## Objective 
+The objective of the project is to match snake and that has an operation similar to the game which we know.
 
-The plan that is had for this project is that this one can be played of the way most similar to the original game, being the playground a matrix of [x][y], where the snake can move in the x-axis and y-axis without greater problem.
+## How to compile it?
+In order to be able to compile the game, we needed 3 files; main.c, snake.h and funciones.c 
+I would recommend to use the Code::Blocks compiler, but also she works well with GDB online.
 
-## Example
-![image](https://user-images.githubusercontent.com/78567602/118186949-ef711800-b403-11eb-9f9d-104b29a4157a.png)
+## How to play?
+We must go to us moving within the playground to eat the fruit without touching the edges.
+The controls of snake are: 
+W: Up
+A: Left 
+S: Down 
+D: Right
+To move, we will have to be pressing the key enter. 
 
+## Reference 
+* Empieza a programar (2013, Nov. 10). Bloque 6.1 ¿Que son las estructuras?
