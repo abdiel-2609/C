@@ -15,10 +15,10 @@ I would recommend to use the Code::Blocks compiler, but also it works well with 
 ## How to play?
 We must go to us moving within the playground to eat the fruit without touching the edges.
 The controls of snake are: 
-W: Up
-A: Left 
-S: Down 
-D: Right
+* W: Up
+* A: Left 
+* S: Down 
+* D: Right
 To move, we will have to be pressing the key enter. 
 
 ## Reference 
