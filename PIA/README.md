@@ -30,6 +30,6 @@ To move, we will have to be pressing the key enter.
 2. functionality: 3 (on very few occasions the program stops working well)
 3. code: 3 (I think I made a clean code)
 4. storage: 1 (I only used the data structures)
-5. documentation: 1 (I believe that I had several orthographic errors, aside  the video is not very good)
+5. documentation: 2 (I think that I had several orthographic errors, aside  the video is not very good)
 
-CF: 10/15
+CF: 11/15
