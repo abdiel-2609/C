@@ -26,12 +26,8 @@ To move, we will have to be pressing the key enter.
 * Empieza a programar (2013, Nov. 10). Bloque 6.1 ¿Que son las estructuras?. YouTube https://www.youtube.com/watch?v=sKCtFFf6v7A&list=PLw8RQJQ8K1ySN6bVHYEpDoh-CKVkL_uOF&index=30
 
 ## Self-assessment
-1: complexity 2 (I think the program was a bit complicated, but not that much)
-
-2: functionality 3 (on very few occasions the program stops working well)
-
-3: code 3 (I think I made a clean code)
-
-4: storage 1 (I only used the data structures)
-
-5: documentation 1 (I believe that I had several orthographic errors, aside  the video is not very good)
+1. complexity: 2 (I think the program was a bit complicated, but not that much)
+2. functionality: 3 (on very few occasions the program stops working well)
+3. code: 3 (I think I made a clean code)
+4. storage: 1 (I only used the data structures)
+5. documentation: 1 (I believe that I had several orthographic errors, aside  the video is not very good)
